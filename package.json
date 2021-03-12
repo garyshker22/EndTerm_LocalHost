@@ -1,0 +1,11 @@
+{
+  "name": "endtermweb",
+  "version": "1.0.0",
+  "description": "This is an end-term project for the course Web Technologies.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazira Kadyrova",
+  "license": "ISC"
+}
